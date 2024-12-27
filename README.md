@@ -27,6 +27,7 @@ Let's connect! Here is my social:
 
 | Protocol                                                             | Description             | Findings | Rank | Report                                                                    |
 | -------------------------------------------------------------------- | ----------------------- | -------- | ---- | ------------------------------------------------------------------------- |
+| [Ethos Network Financial Contracts](https://audits.sherlock.xyz/contests/675) | On-chain Reputation | 1H 1M | 20th |[📄](https://github.com/sherlock-audit/2024-11-ethos-network-ii-judging/issues/204) |
 | [Debita Finance V3](https://audits.sherlock.xyz/contests/627)        | Orderbook, Loan         | 2M       | 35th | [📄](https://github.com/sherlock-audit/2024-10-debita-judging/issues/439) |
 | [Phi Protocol](https://code4rena.com/audits/2024-08-phi)             | NFT, On-chain Identitiy | 1H 1M    | 55th | [📄](https://github.com/code-423n4/2024-08-phi-findings/issues/269)       |
 | [Project One World](https://codehawks.cyfrin.io/c/2024-11-one-world) | NFT, DAO                | 1L       | 43th | [📄](https://codehawks.cyfrin.io/c/2024-11-one-world/s/349)               |
