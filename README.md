@@ -27,6 +27,7 @@ Let's connect! Here is my social:
 
 | Protocol                                                             | Description             | Findings | Rank | Report                                                                    |
 | -------------------------------------------------------------------- | ----------------------- | -------- | ---- | ------------------------------------------------------------------------- |
+| [Rova](https://audits.sherlock.xyz/contests/498)                     | Launchpad               | 1M       | 🥈   | [📄](https://github.com/sherlock-audit/2025-02-rova-judging/issues/301) |
 | [Daao](https://cantina.xyz/competitions/bd43bdd1-bc7f-473b-96c0-d35d37f3db33)  | Launchpad     | 4H 1M    | 51/292 | not public yet |
 | [Plaza Finance](https://audits.sherlock.xyz/contests/682)            | Auction, Bond Token     | 2H 4M    | 78/100 |[📄](https://github.com/sherlock-audit/2024-12-plaza-finance-judging/issues/33) |
 | [SecondSwap](https://code4rena.com/audits/2024-12-secondswap)        | Liquid Token Vesting    | 1H 2M    | 36/181 |[📄](https://code4rena.com/audits/2024-12-secondswap/submissions/S-353) |
