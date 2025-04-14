@@ -25,22 +25,36 @@ Let's connect! Here is my social:
 
 ### Public Contest
 
-| Protocol                                                             | Description             | Findings | Rank | Report                                                                    |
-| -------------------------------------------------------------------- | ----------------------- | -------- | ---- | ------------------------------------------------------------------------- |
-| [Rova](https://audits.sherlock.xyz/contests/498)                     | Launchpad               | 1M       | 🥈   | [📄](https://github.com/sherlock-audit/2025-02-rova-judging/issues/301) |
-| [Daao](https://cantina.xyz/competitions/bd43bdd1-bc7f-473b-96c0-d35d37f3db33)  | Launchpad     | 4H 1M    | 51/292 | not public yet |
-| [Plaza Finance](https://audits.sherlock.xyz/contests/682)            | Auction, Bond Token     | 2H 4M    | 78/100 |[📄](https://github.com/sherlock-audit/2024-12-plaza-finance-judging/issues/33) |
-| [SecondSwap](https://code4rena.com/audits/2024-12-secondswap)        | Liquid Token Vesting    | 1H 2M    | 36/181 |[📄](https://code4rena.com/audits/2024-12-secondswap/submissions/S-353) |
-| [Ethos Network Financial Contracts](https://audits.sherlock.xyz/contests/675) | On-chain Reputation | 1H 1M | 20/33 |[📄](https://github.com/sherlock-audit/2024-11-ethos-network-ii-judging/issues/204) |
-| [Debita Finance V3](https://audits.sherlock.xyz/contests/627)        | Orderbook, Loan         | 2M       | 35/56 | [📄](https://github.com/sherlock-audit/2024-10-debita-judging/issues/439) |
-| [Phi Protocol](https://code4rena.com/audits/2024-08-phi)             | NFT, On-chain Identitiy | 1H 1M    | 55/99 | [📄](https://github.com/code-423n4/2024-08-phi-findings/issues/269)       |
-| [Project One World](https://codehawks.cyfrin.io/c/2024-11-one-world) | NFT, DAO                | 1L       | 43/61 | [📄](https://codehawks.cyfrin.io/c/2024-11-one-world/s/349)               |
-| [Lambo.win](https://code4rena.com/audits/2024-12-lambowin)           | Token Launchpad         | 1H 1M    | 62/145 | [📄](https://code4rena.com/reports/2024-12-lambowin)                      |
+| Protocol                                                                      | Description         | Findings | Rank   | Report                                                                              |
+| ----------------------------------------------------------------------------- | ------------------- | -------- | ------ | ----------------------------------------------------------------------------------- |
+| [Crestal Network](https://audits.sherlock.xyz/contests/755)                   | AI Agent            | 1H       | 12/341 | [📄](https://github.com/sherlock-audit/2025-03-symm-io-stacking-judging/issues/100) |
+| [Symmio Staking Vesting](https://audits.sherlock.xyz/contests/838)            | Staking, Vesting    | 1H 2M    | 8/461  | [📄](https://github.com/sherlock-audit/2025-03-symm-io-stacking-judging/issues/100) |
+| [Rova](https://audits.sherlock.xyz/contests/498)                              | Launchpad           | 1M       | 🥈     | [📄](https://github.com/sherlock-audit/2025-02-rova-judging/issues/301)             |
+| [Daao](https://cantina.xyz/competitions/bd43bdd1-bc7f-473b-96c0-d35d37f3db33) | Launchpad           | 4H 1M    | 51/292 | not public yet                                                                      |
+| [Plaza Finance](https://audits.sherlock.xyz/contests/682)                     | Auction, Bond Token | 2H 4M    | 78/100 | [📄](https://github.com/sherlock-audit/2024-12-plaza-finance-judging/issues/33)     |
+
+<details>
+
+<summary>2024</summary>
+
+<br>
+
+| Protocol                                                                      | Description             | Findings | Rank   | Report                                                                              |
+| ----------------------------------------------------------------------------- | ----------------------- | -------- | ------ | ----------------------------------------------------------------------------------- |
+| [SecondSwap](https://code4rena.com/audits/2024-12-secondswap)                 | Liquid Token Vesting    | 1H 2M    | 36/181 | [📄](https://code4rena.com/audits/2024-12-secondswap/submissions/S-353)             |
+| [Ethos Network Financial Contracts](https://audits.sherlock.xyz/contests/675) | On-chain Reputation     | 1H 1M    | 20/33  | [📄](https://github.com/sherlock-audit/2024-11-ethos-network-ii-judging/issues/204) |
+| [Debita Finance V3](https://audits.sherlock.xyz/contests/627)                 | Orderbook, Loan         | 2M       | 35/56  | [📄](https://github.com/sherlock-audit/2024-10-debita-judging/issues/439)           |
+| [Phi Protocol](https://code4rena.com/audits/2024-08-phi)                      | NFT, On-chain Identitiy | 1H 1M    | 55/99  | [📄](https://github.com/code-423n4/2024-08-phi-findings/issues/269)                 |
+| [Project One World](https://codehawks.cyfrin.io/c/2024-11-one-world)          | NFT, DAO                | 1L       | 43/61  | [📄](https://codehawks.cyfrin.io/c/2024-11-one-world/s/349)                         |
+| [Lambo.win](https://code4rena.com/audits/2024-12-lambowin)                    | Token Launchpad         | 1H 1M    | 62/145 | [📄](https://code4rena.com/reports/2024-12-lambowin)                                |
+
+</details>
 
 ### First Flight
 
 | First Flight                                                              | Description          | Findings | Rank | Report\*                                                                                                                      |
 | ------------------------------------------------------------------------- | -------------------- | -------- | ---- | ----------------------------------------------------------------------------------------------------------------------------- |
+| [#36: RustFund](https://codehawks.cyfrin.io/c/2025-03-rustfund)           | Fundraise, Rust      | 2H 1M    | 41th | -                                                                                                                             |
 | [#20: The Predicter](https://codehawks.cyfrin.io/c/2024-07-the-predicter) | ERC20, Wager         | 4H       | 9th  | [📄](https://codehawks.cyfrin.io/c/2024-07-the-predicter/s/363)                                                               |
 | [#14: AirDropper](https://codehawks.cyfrin.io/c/2024-04-airdropper)       | Airdrop, Merkle Tree | 3H       | 4th  | [📄](https://codehawks.cyfrin.io/c/2024-04-airdropper/s/85)                                                                   |
 | [#12: Kitty Connect](https://codehawks.cyfrin.io/c/2024-03-kitty-connect) | NFT, Chainlink CCIP  | 3H 1M    | 4th  | [📄](https://codehawks.cyfrin.io/c/2024-03-kitty-connect/s/72) [📄](https://codehawks.cyfrin.io/c/2024-03-kitty-connect/s/73) |
