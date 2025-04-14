@@ -27,7 +27,7 @@ Let's connect! Here is my social:
 
 | Protocol                                                                      | Description         | Findings | Rank   | Report                                                                              |
 | ----------------------------------------------------------------------------- | ------------------- | -------- | ------ | ----------------------------------------------------------------------------------- |
-| [Crestal Network](https://audits.sherlock.xyz/contests/755)                   | AI Agent            | 1H       | 12/341 | [📄](https://github.com/sherlock-audit/2025-03-symm-io-stacking-judging/issues/100) |
+| [Crestal Network](https://audits.sherlock.xyz/contests/755)                   | AI Agent            | 1H       | 12/341 | [📄](https://github.com/sherlock-audit/2025-03-crestal-network-judging/issues/260)  |
 | [Symmio Staking Vesting](https://audits.sherlock.xyz/contests/838)            | Staking, Vesting    | 1H 2M    | 8/461  | [📄](https://github.com/sherlock-audit/2025-03-symm-io-stacking-judging/issues/100) |
 | [Rova](https://audits.sherlock.xyz/contests/498)                              | Launchpad           | 1M       | 🥈     | [📄](https://github.com/sherlock-audit/2025-02-rova-judging/issues/301)             |
 | [Daao](https://cantina.xyz/competitions/bd43bdd1-bc7f-473b-96c0-d35d37f3db33) | Launchpad           | 4H 1M    | 51/292 | not public yet                                                                      |
