@@ -29,6 +29,7 @@ Let's connect! Here is my social:
 | ----------------------------------------------------------------------------- | ------------------- | -------- | ------ | ----------------------------------------------------------------------------------- |
 | [Dodo Cross-chain DEX](https://audits.sherlock.xyz/contests/498)              | Cross-chain DEX     | 1H 4M    | 🥉     | [📄](https://github.com/sherlock-audit/2025-05-dodo-cross-chain-dex-judging/issues/63)  |
 | [Primev](https://cantina.xyz/competitions/e92be0b9-b4f2-4bf2-9544-ae285fcfc02d) | MEV Validator Registry | 1H  | 6/232  | private report (cantina)                                                            |
+| [Alchemix-v3](https://cantina.xyz/code/e68909e6-3491-4a94-a707-ecf0c89cf72a/overview) | Synthetic   | 8H 1M    | 17/902 | private report (cantina)                                                            |
 | [Mighty Fi](https://cantina.xyz/competitions/616d8bb4-16ce-4ca9-9ce9-5b99d6e146ef) | CLMM           | 2H       | 19/629 | private report (cantina)                                                            |
 | [Crestal Network](https://audits.sherlock.xyz/contests/755)                   | AI Agent            | 1H       | 12/341 | [📄](https://github.com/sherlock-audit/2025-03-crestal-network-judging/issues/260)  |
 | [Symmio Staking Vesting](https://audits.sherlock.xyz/contests/838)            | Staking, Vesting    | 1H 2M    | 8/461  | [📄](https://github.com/sherlock-audit/2025-03-symm-io-stacking-judging/issues/100) |
