@@ -36,7 +36,6 @@ Founder of KASTURI: Leading the Indonesian Security Researcher Community to fost
 | [Summer.fi - governance v2](https://audits.sherlock.xyz/contests/1176) | Cross-chain Governance | 3M | 🥉 | [📄](https://audits.sherlock.xyz/contests/1176/voting/1) |
 | [Symmio Staking Vesting](https://audits.sherlock.xyz/contests/838) | Staking, Vesting | 1H 2M | Top 10 | [📄](https://github.com/sherlock-audit/2025-03-symm-io-stacking-judging/issues/100) |
 | [Cap](https://audits.sherlock.xyz/contests/990) | Stablecoin | 3M | Top 10 | [📄](https://audits.sherlock.xyz/contests/990/voting/194) |
-| [Primev](https://cantina.xyz/competitions/e92be0b9-b4f2-4bf2-9544-ae285fcfc02d) | MEV Validator Registry | 1H | Top 10 | Private (Cantina) |
 
 ### Public Contest History
 
@@ -44,6 +43,7 @@ Founder of KASTURI: Leading the Indonesian Security Researcher Community to fost
 
 | Protocol | Description | Findings | Rank | Report |
 | --- | --- | --- | --- | --- |
+| [Alchemix-v3](https://immunefi.com/audit-competition/alchemix-v3-audit-competition/information/#top) | Synthetic | 4C 6H 5M | 🥇 | [📄](https://reports.immunefi.com/alchemix-v3/58544-sc-critical-it-is-possible-to-underflow-on-sync-making-positions-bricked-forever) |
 | [stNXM by EaseDeFi](https://audits.sherlock.xyz/contests/1203) | Slashing Insurance | 2H 1M | 17 | [📄](https://audits.sherlock.xyz/contests/1203/voting/124) |
 | [Summer.fi - governance v2](https://audits.sherlock.xyz/contests/1176) | Cross-chain Governance | 3M | 🥉 | [📄](https://audits.sherlock.xyz/contests/1176/voting/1) |
 | [Rezerve Money](https://audits.sherlock.xyz/contests/1134) | Treasury Accumulation | 4H 5M | 26 | Private (Sherlock) |
