@@ -6,7 +6,7 @@
 
 Independent Web3 Security Researcher focused on securing DeFi, Cross-chain infrastructure, and Token standards.
 
-Top-tier contributor on Sherlock, Code4rena,  Immunefi, Codehawk, and Cantina with multiple podium finishes and top 10 rankings.
+Top-tier contributor on Sherlock, Code4rena, Immunefi, Codehawk, and Cantina with multiple podium finishes and top 10 rankings.
 
 Founder of KASTURI: Leading the Indonesian Security Researcher Community to foster local talent in Web3 security. [Join our Discord](https://discord.gg/SKFaNytDe7)
 
@@ -21,6 +21,7 @@ Founder of KASTURI: Leading the Indonesian Security Researcher Community to fost
 ### 🌐 Profiles
 
 - [Sherlock (@farismaulana)](https://audits.sherlock.xyz/watson/farismaulana)
+- [Immunefi (@farismaulana)](https://immunefi.com/profile/farismaulana/)
 - [Code4rena (@farismaulana)](https://code4rena.com/@farismaulana)
 - [Cantina (@farismaulana)](https://cantina.xyz/u/farismaulana)
 - [CodeHawks (@farismaulana)](https://profiles.cyfrin.io/u/farismaulana)
@@ -29,6 +30,7 @@ Founder of KASTURI: Leading the Indonesian Security Researcher Community to fost
 
 | Protocol | Description | Findings | Rank | Report |
 | --- | --- | --- | --- | --- |
+| [Alchemix-v3](https://immunefi.com/audit-competition/alchemix-v3-audit-competition/information/#top) | Synthetic | 4C 6H 5M | 🥇 | [📄](https://reports.immunefi.com/alchemix-v3/58544-sc-critical-it-is-possible-to-underflow-on-sync-making-positions-bricked-forever) |
 | [Rova](https://audits.sherlock.xyz/contests/498) | Launchpad | 1M | 🥈 | [📄](https://github.com/sherlock-audit/2025-02-rova-judging/issues/301) |
 | [Dodo Cross-chain DEX](https://audits.sherlock.xyz/contests/498) | Cross-chain DEX | 1H 4M | 🥉 | [📄](https://github.com/sherlock-audit/2025-05-dodo-cross-chain-dex-judging/issues/63) |
 | [Summer.fi - governance v2](https://audits.sherlock.xyz/contests/1176) | Cross-chain Governance | 3M | 🥉 | [📄](https://audits.sherlock.xyz/contests/1176/voting/1) |
