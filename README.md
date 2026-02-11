@@ -31,6 +31,7 @@ Founder of KASTURI: Leading the Indonesian Security Researcher Community to fost
 | Protocol | Description | Findings | Rank | Report |
 | --- | --- | --- | --- | --- |
 | [Alchemix-v3](https://immunefi.com/audit-competition/alchemix-v3-audit-competition/information/#top) | Synthetic | 4C 6H 5M | 🥇 | [📄](https://reports.immunefi.com/alchemix-v3/58544-sc-critical-it-is-possible-to-underflow-on-sync-making-positions-bricked-forever) |
+| [SukukFi](https://code4rena.com/audits/2025-11-sukukfi) | RWA | 2M | 🥈 | [📄](https://code4rena.com/reports/2025-11-sukukfi) |
 | [Rova](https://audits.sherlock.xyz/contests/498) | Launchpad | 1M | 🥈 | [📄](https://github.com/sherlock-audit/2025-02-rova-judging/issues/301) |
 | [Dodo Cross-chain DEX](https://audits.sherlock.xyz/contests/498) | Cross-chain DEX | 1H 4M | 🥉 | [📄](https://github.com/sherlock-audit/2025-05-dodo-cross-chain-dex-judging/issues/63) |
 | [Summer.fi - governance v2](https://audits.sherlock.xyz/contests/1176) | Cross-chain Governance | 3M | 🥉 | [📄](https://audits.sherlock.xyz/contests/1176/voting/1) |
@@ -43,6 +44,7 @@ Founder of KASTURI: Leading the Indonesian Security Researcher Community to fost
 
 | Protocol | Description | Findings | Rank | Report |
 | --- | --- | --- | --- | --- |
+| [SukukFi](https://code4rena.com/audits/2025-11-sukukfi) | RWA | 2M | 🥈 | [📄](https://code4rena.com/reports/2025-11-sukukfi) |
 | [Alchemix-v3](https://immunefi.com/audit-competition/alchemix-v3-audit-competition/information/#top) | Synthetic | 4C 6H 5M | 🥇 | [📄](https://reports.immunefi.com/alchemix-v3/58544-sc-critical-it-is-possible-to-underflow-on-sync-making-positions-bricked-forever) |
 | [stNXM by EaseDeFi](https://audits.sherlock.xyz/contests/1203) | Slashing Insurance | 2H 1M | 17 | [📄](https://audits.sherlock.xyz/contests/1203/voting/124) |
 | [Summer.fi - governance v2](https://audits.sherlock.xyz/contests/1176) | Cross-chain Governance | 3M | 🥉 | [📄](https://audits.sherlock.xyz/contests/1176/voting/1) |
