@@ -33,7 +33,7 @@ Founder of KASTURI: Leading the Indonesian Security Researcher Community to fost
 | [Alchemix-v3](https://immunefi.com/audit-competition/alchemix-v3-audit-competition/information/#top) | Synthetic | 4C 6H 5M | 🥇 | [📄](https://reports.immunefi.com/alchemix-v3/58544-sc-critical-it-is-possible-to-underflow-on-sync-making-positions-bricked-forever) |
 | [SukukFi](https://code4rena.com/audits/2025-11-sukukfi) | RWA | 2M | 🥈 | [📄](https://code4rena.com/reports/2025-11-sukukfi) |
 | [Rova](https://audits.sherlock.xyz/contests/498) | Launchpad | 1M | 🥈 | [📄](https://github.com/sherlock-audit/2025-02-rova-judging/issues/301) |
-| [Dodo Cross-chain DEX](https://audits.sherlock.xyz/contests/498) | Cross-chain DEX | 1H 4M | 🥉 | [📄](https://github.com/sherlock-audit/2025-05-dodo-cross-chain-dex-judging/issues/63) |
+| [Dodo Cross-chain DEX](https://audits.sherlock.xyz/contests/991) | Cross-chain DEX | 1H 4M | 🥉 | [📄](https://github.com/sherlock-audit/2025-05-dodo-cross-chain-dex-judging/issues/63) |
 | [Summer.fi - governance v2](https://audits.sherlock.xyz/contests/1176) | Cross-chain Governance | 3M | 🥉 | [📄](https://audits.sherlock.xyz/contests/1176/voting/1) |
 | [Symmio Staking Vesting](https://audits.sherlock.xyz/contests/838) | Staking, Vesting | 1H 2M | Top 10 | [📄](https://github.com/sherlock-audit/2025-03-symm-io-stacking-judging/issues/100) |
 | [Cap](https://audits.sherlock.xyz/contests/990) | Stablecoin | 3M | Top 10 | [📄](https://audits.sherlock.xyz/contests/990/voting/194) |
