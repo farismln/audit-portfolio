@@ -8,7 +8,7 @@ Independent Web3 Security Researcher focused on securing DeFi, Cross-chain infra
 
 Top-tier contributor on Sherlock, Code4rena, Immunefi, Codehawk, and Cantina with multiple podium finishes and top 10 rankings.
 
-Founder of KASTURI: Leading the Indonesian Security Researcher Community to foster local talent in Web3 security. [Join our Discord](https://discord.gg/SKFaNytDe7)
+Founder of KASTURI: Leading the Indonesian Security Researcher Community to foster local talent in Web3 security. [Join our Discord](https://discord.kasturisec.xyz)
 
 🔗 Connect
 [🐦 Twitter (@0xfrsmln)](https://x.com/0xfrsmln) | 💬 Discord (@dot_cloud) | [✈️ Telegram (@oxfrsmln)](https://t.me/oxfrsmln)
