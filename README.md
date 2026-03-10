@@ -38,6 +38,13 @@ Founder of KASTURI: Leading the Indonesian Security Researcher Community to fost
 | [Symmio Staking Vesting](https://audits.sherlock.xyz/contests/838) | Staking, Vesting | 1H 2M | Top 10 | [📄](https://github.com/sherlock-audit/2025-03-symm-io-stacking-judging/issues/100) |
 | [Cap](https://audits.sherlock.xyz/contests/990) | Stablecoin | 3M | Top 10 | [📄](https://audits.sherlock.xyz/contests/990/voting/194) |
 
+## 🔒 Private Engagements
+
+| Date | Team | Protocol | Category | Report |
+| --- | --- | --- | --- | --- |
+| Feb 2026 | Pashov Audit Group | Ample Earn | Yield Aggregator | *pending* |
+| Feb 2026 | Pashov Audit Group | RAAC | RWA | *pending* |
+
 ### Public Contest History
 
 <details open> <summary><strong>2025 Public Contests</strong></summary>
