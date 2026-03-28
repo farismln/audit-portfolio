@@ -42,6 +42,7 @@ Founder of KASTURI: Leading the Indonesian Security Researcher Community to fost
 
 | Date | Team | Protocol | Category | Report |
 | --- | --- | --- | --- | --- |
+| Mar 2026 | Pashov Audit Group | Ern Vault | Yield Aggregator | *pending* |
 | Feb 2026 | Pashov Audit Group | Ample Earn | Yield Aggregator | *pending* |
 | Feb 2026 | Pashov Audit Group | RAAC | RWA | *pending* |
 
