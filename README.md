@@ -48,7 +48,7 @@ Founder of KASTURI: Leading the Indonesian Security Researcher Community to fost
 
 ### Public Contest History
 
-<details open markdonw="1">
+<details open markdown="1">
 <summary><strong>2025 Public Contests</strong></summary>
 
 | Protocol | Description | Findings | Rank | Report |
@@ -62,7 +62,7 @@ Founder of KASTURI: Leading the Indonesian Security Researcher Community to fost
 | [Cap](https://audits.sherlock.xyz/contests/990) | Stablecoin | 3M | 9 | [📄](https://audits.sherlock.xyz/contests/990/voting/194) |
 | [succinct-network](https://cantina.xyz/code/bd882748-077e-4e55-853f-f8df70109dbb/overview) | Proof generation marketplace | 1M | 13/400 | Private (Cantina) |
 | [telcoin-network](https://cantina.xyz/competitions/26d5255b-6f68-46cf-be55-81dd565d9d16) | Consensus | 1H 1M | 58/689 | Private (Cantina) |
-| [Dodo Cross-chain DEX](https://audits.sherlock.xyz/contests/498) | Cross-chain DEX | 1H 4M | 🥉 | [📄](https://github.com/sherlock-audit/2025-05-dodo-cross-chain-dex-judging/issues/63) |
+| [Dodo Cross-chain DEX](https://audits.sherlock.xyz/contests/991) | Cross-chain DEX | 1H 4M | 🥉 | [📄](https://github.com/sherlock-audit/2025-05-dodo-cross-chain-dex-judging/issues/63) |
 | [Primev](https://cantina.xyz/competitions/e92be0b9-b4f2-4bf2-9544-ae285fcfc02d) | MEV Validator Registry | 1H | 6/232 | Private (Cantina) |
 | [Alchemix-v3](https://cantina.xyz/code/e68909e6-3491-4a94-a707-ecf0c89cf72a/overview) | Synthetic | 8H 1M | 17/902 | Private (Cantina) |
 | [Mighty Fi](https://cantina.xyz/competitions/616d8bb4-16ce-4ca9-9ce9-5b99d6e146ef) | CLMM | 2H | 19/629 | Private (Cantina) |
