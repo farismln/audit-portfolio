@@ -48,7 +48,8 @@ Founder of KASTURI: Leading the Indonesian Security Researcher Community to fost
 
 ### Public Contest History
 
-<details open> <summary><strong>2025 Public Contests</strong></summary>
+<details open markdonw="1">
+<summary><strong>2025 Public Contests</strong></summary>
 
 | Protocol | Description | Findings | Rank | Report |
 | --- | --- | --- | --- | --- |
@@ -76,7 +77,8 @@ Founder of KASTURI: Leading the Indonesian Security Researcher Community to fost
 
 </details>
 
-<details> <summary><strong>2024 Public Contests</strong></summary>
+<details markdown="1">
+<summary><strong>2024 Public Contests</strong></summary>
 
 | Protocol | Description | Findings | Rank | Report |
 | --- | --- | --- | --- | --- |
@@ -89,7 +91,7 @@ Founder of KASTURI: Leading the Indonesian Security Researcher Community to fost
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>Training & Shadow Audits (First Flight)</strong></summary>
 
 *Early career training contests focused on fundamental security concepts.*
