@@ -49,6 +49,15 @@ Founder of KASTURI: Leading the Indonesian Security Researcher Community to fost
 ### Public Contest History
 
 <details open markdown="1">
+<summary><strong>2026 Public Contests</strong></summary>
+
+| Protocol | Description | Findings | Rank | Report |
+| --- | --- | --- | --- | --- |
+| [Injective Peggy Bridge](https://code4rena.com/audits/2026-02-injective-peggy-bridge) | Cosmos SDK, Bridge | 2M | 8 | *pending* |
+
+</details>
+
+<details open markdown="1">
 <summary><strong>2025 Public Contests</strong></summary>
 
 | Protocol | Description | Findings | Rank | Report |
