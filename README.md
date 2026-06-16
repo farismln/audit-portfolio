@@ -45,7 +45,7 @@ Founder of KASTURI: Leading the Indonesian Security Researcher Community to fost
 | May 2026 | Pashov Audit Group | RAAC | Multi Reward Staker | *pending* |
 | Mar 2026 | Pashov Audit Group | Ern Vault | Yield Aggregator | *pending* |
 | Feb 2026 | Pashov Audit Group | Ample Earn | Yield Aggregator | *pending* |
-| Feb 2026 | Pashov Audit Group | RAAC | RWA | [📄]](https://github.com/pashov/audits/blob/master/team/md/RegnumAurum-security-review_2026-02-07.md) |
+| Feb 2026 | Pashov Audit Group | RAAC | RWA | [📄](https://github.com/pashov/audits/blob/master/team/md/RegnumAurum-security-review_2026-02-07.md) |
 
 ### Public Contest History
 
