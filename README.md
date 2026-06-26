@@ -40,8 +40,12 @@ Founder of KASTURI: Leading the Indonesian Security Researcher Community to fost
 
 ## 🔒 Private Engagements
 
+Lists here is public only not including NDA engagements:
+
 | Date | Team | Protocol | Category | Report |
 | --- | --- | --- | --- | --- |
+| June 2026 | Pashov Audit Group | Gravity | DeFI Vault | *pending* |
+| May 2026 | Pashov Audit Group | RAAC | Governance | *pending* |
 | May 2026 | Pashov Audit Group | RAAC | Multi Reward Staker | *pending* |
 | Mar 2026 | Pashov Audit Group | Ern Vault | Yield Aggregator | *pending* |
 | Feb 2026 | Pashov Audit Group | Ample Earn | Yield Aggregator | *pending* |
