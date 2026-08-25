@@ -1,0 +1,23 @@
+name: Notify portfolio-web
+
+# When the README (the single source of truth for the audit history) changes,
+# ping portfolio-web so it re-syncs immediately instead of waiting for its
+# daily cron. Requires a PAT with repo scope on farismln/portfolio-web stored
+# as the PORTFOLIO_PAT secret (GITHUB_TOKEN cannot dispatch cross-repo).
+on:
+  push:
+    branches: [main]
+    paths: ['README.md']
+  workflow_dispatch:
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger portfolio-web sync
+        run: |
+          curl -sf -X POST \
+            -H "Authorization: Bearer ${{ secrets.PORTFOLIO_PAT }}" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/farismln/portfolio-web/dispatches \
+            -d '{"event_type":"audit-portfolio-updated"}'
