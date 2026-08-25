@@ -11,12 +11,13 @@ Top-tier contributor on Sherlock, Code4rena, Immunefi, Codehawk, and Cantina wit
 Founder of KASTURI: Leading the Indonesian Security Researcher Community to foster local talent in Web3 security. [Join our Discord](https://discord.kasturisec.xyz)
 
 🔗 Connect
-[🐦 Twitter (@0xfrsmln)](https://x.com/0xfrsmln) | 💬 Discord (@dot_cloud) | [✈️ Telegram (@oxfrsmln)](https://t.me/oxfrsmln)
+[🌐 Website (farismaulana.com)](https://farismaulana.com/) | [🐦 Twitter (@0xfrsmln)](https://x.com/0xfrsmln) | 💬 Discord (@dot_cloud) | [✈️ Telegram (@oxfrsmln)](https://t.me/oxfrsmln)
 
 🛠️ Technical Expertise
 
-- Languages: Solidity, Rust (Basic), Move (Basic)
-- Focus Areas: AMMs (CLMM), Cross-chain Messaging, Liquid Staking/Vesting, Account Abstraction
+- Languages: Solidity, Rust, Move
+- Focus Areas: AMMs (CLMM), Cross-chain Messaging, Liquid Staking/Vesting, Account Abstraction, DLT
+- Services: Private Audit, Triaging, AI Triaging
 
 ### 🌐 Profiles
 
