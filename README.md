@@ -36,7 +36,7 @@ Founder of KASTURI: Leading the Indonesian Security Researcher Community to fost
 | [Rova](https://audits.sherlock.xyz/contests/498) | Launchpad | 1M | 🥈 | [📄](https://github.com/sherlock-audit/2025-02-rova-judging/issues/301) |
 | [Dodo Cross-chain DEX](https://audits.sherlock.xyz/contests/991) | Cross-chain DEX | 1H 4M | 🥉 | [📄](https://github.com/sherlock-audit/2025-05-dodo-cross-chain-dex-judging/issues/63) |
 | [Summer.fi - governance v2](https://audits.sherlock.xyz/contests/1176) | Cross-chain Governance | 3M | 🥉 | [📄](https://audits.sherlock.xyz/contests/1176/voting/1) |
-| [Symmio Staking Vesting](https://audits.sherlock.xyz/contests/838) | Staking, Vesting | 1H 2M | Top 10 | [📄](https://github.com/sherlock-audit/2025-03-symm-io-stacking-judging/issues/100) |
+| [Injective Peggy Bridge](https://code4rena.com/audits/2026-02-injective-peggy-bridge) | Cosmos SDK, Bridge | 2M | Top 10 | *pending* |
 | [Cap](https://audits.sherlock.xyz/contests/990) | Stablecoin | 3M | Top 10 | [📄](https://audits.sherlock.xyz/contests/990/voting/194) |
 
 ## 🔒 Private Engagements
