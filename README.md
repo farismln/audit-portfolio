@@ -61,6 +61,7 @@ Lists here is public only not including NDA engagements:
 
 | Protocol | Description | Findings | Rank | Report |
 | --- | --- | --- | --- | --- |
+| [Metric](https://audits.sherlock.xyz/contests/1279) | DEX | 1M | 23 | *pending* |
 | [Injective Peggy Bridge](https://code4rena.com/audits/2026-02-injective-peggy-bridge) | Cosmos SDK, Bridge | 2M | 8 | *pending* |
 
 </details>
