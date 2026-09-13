@@ -45,6 +45,7 @@ Lists here is public only not including NDA engagements:
 
 | Date | Team | Protocol | Category | Report |
 | --- | --- | --- | --- | --- |
+| Sep 2026 | Pashov Audit Group | Pare | PT YT Tokenized Stocks | *pending* |
 | Aug 2026 | Pashov Audit Group | PAXGy | Chainlink CCIP Integration | *pending* |
 | Aug 2026 | Pashov Audit Group | RAAC | Maturity Vault | *pending* |
 | July 2026 | Pashov Audit Group | RAAC | Oracle | *pending* |
