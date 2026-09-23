@@ -48,8 +48,8 @@ Lists here is public only not including NDA engagements:
 | Sep 2026 | Pashov Audit Group | Saturn Labs | Staking | *pending* |
 | Sep 2026 | Pashov Audit Group | Bio | Yield Distribution | *pending* |
 | Sep 2026 | Pashov Audit Group | Pare | PT YT Tokenized Stocks | [📄](https://parestocks.com/pare-security-review-pashov-2026-09.pdf) |
-| Aug 2026 | Pashov Audit Group | Gains | Trading Protocol | *pending* |
 | Aug 2026 | Pashov Audit Group | PAXGy | Chainlink CCIP Integration | *pending* |
+| Aug 2026 | Pashov Audit Group | Gains | Trading Protocol | *pending* |
 | Aug 2026 | Pashov Audit Group | RAAC | Maturity Vault | *pending* |
 | July 2026 | Pashov Audit Group | LiFi | Cross-chain Swap | *pending* |
 | July 2026 | Pashov Audit Group | RAAC | Liquid Locker | *pending* |
