@@ -45,7 +45,7 @@ Lists here is public only not including NDA engagements:
 
 | Date | Team | Protocol | Category | Report |
 | --- | --- | --- | --- | --- |
-| Sep 2026 | Pashov Audit Group | Pare | Dividend Liquid Provider | *pending* |
+| Sep 2026 | Pashov Audit Group | Pare | Dividend Liquid Provider | [📄](https://github.com/pashov/audits/blob/master/team/pdf/Pare-security-review_2026-09-28.pdf) |
 | Sep 2026 | Pashov Audit Group | Saturn Labs | Staking | *pending* |
 | Sep 2026 | Pashov Audit Group | Bio | Yield Distribution | *pending* |
 | Sep 2026 | Pashov Audit Group | Pare | PT YT Tokenized Stocks | [📄](https://github.com/pashov/audits/blob/master/team/pdf/Pare-security-review_2026-09-17.pdf) |
