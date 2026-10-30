@@ -45,6 +45,7 @@ Lists here is public only not including NDA engagements:
 
 | Date | Team | Protocol | Category | Report |
 | --- | --- | --- | --- | --- |
+| Oct 2026 | Pashov Audit Group | RAAC | RWA | *pending* |
 | Sep 2026 | Pashov Audit Group | Pare | Dividend Liquid Provider | [📄](https://github.com/pashov/audits/blob/master/team/pdf/Pare-security-review_2026-09-28.pdf) |
 | Sep 2026 | Pashov Audit Group | Saturn Labs | Staking | *pending* |
 | Sep 2026 | Pashov Audit Group | Bio | Yield Distribution | *pending* |
@@ -69,6 +70,7 @@ Lists here is public only not including NDA engagements:
 
 | Protocol | Description | Findings | Rank | Report |
 | --- | --- | --- | --- | --- |
+| [Rain](https://hackenproof.com/audit-programs/rain-usdr-smart-contract-audit-contest-sept-2026) | Stablecoin | 4H 4M 2L | 4th | *pending* |
 | [Metric](https://audits.sherlock.xyz/contests/1279) | DEX | 1M | 23 | *pending* |
 | [Injective Peggy Bridge](https://code4rena.com/audits/2026-02-injective-peggy-bridge) | Cosmos SDK, Bridge | 2M | 8 | *pending* |
 
