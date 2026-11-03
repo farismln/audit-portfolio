@@ -15,6 +15,9 @@ working:
 - Yearly contest tables live inside `<details>` blocks with
   `<summary><strong>YYYY Public Contests</strong></summary>`, newest year first.
 - New private engagements go at the top of their table, newest first.
+- **Team** is the audit firm for each private engagement and appears as the
+  `firm` column on the website. Any firm can use the same table; enter its name
+  in that row instead of creating a separate table.
 
 If the format must change, update the parser in portfolio-web in the same
 change — it fails loudly (and the site stops auto-updating) when the structure

@@ -45,6 +45,8 @@ Lists here is public only not including NDA engagements:
 
 | Date | Team | Protocol | Category | Report |
 | --- | --- | --- | --- | --- |
+| Oct 2026 | yAudit (Fellowship) | UFG | Treasuries | [📄](https://reports.yaudit.dev/2026-10-ufg-factory-and-treasuries) |
+| Oct 2026 | yAudit (Fellowship) | Lynxifi | Liquidity Pool | [📄](https://reports.yaudit.dev/2026-10-lynxify-lynx-lp-range-manager) |
 | Oct 2026 | Pashov Audit Group | RAAC | RWA | *pending* |
 | Sep 2026 | Pashov Audit Group | Pare | Dividend Liquid Provider | [📄](https://github.com/pashov/audits/blob/master/team/pdf/Pare-security-review_2026-09-28.pdf) |
 | Sep 2026 | Pashov Audit Group | Saturn Labs | Staking | *pending* |
